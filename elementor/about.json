@@ -1,0 +1,1579 @@
+[
+ {
+  "id": "424c502",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "column",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 1040,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "88",
+    "right": "32",
+    "bottom": "72",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "62",
+    "right": "20",
+    "bottom": "50",
+    "left": "20",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_image": {
+    "url": "https://ram-management.wsdfy.com/wp-content/uploads/2026/09/about-hero-montreal-skyline.jpg",
+    "id": 10,
+    "source": "library",
+    "alt": "",
+    "size": ""
+   },
+   "background_position": "initial",
+   "background_xpos": {
+    "unit": "%",
+    "size": 50,
+    "sizes": []
+   },
+   "background_ypos": {
+    "unit": "%",
+    "size": 40,
+    "sizes": []
+   },
+   "background_repeat": "no-repeat",
+   "background_size": "cover",
+   "background_overlay_background": "gradient",
+   "background_overlay_color": "rgba(6,63,87,0.94)",
+   "background_overlay_color_stop": {
+    "unit": "%",
+    "size": 0,
+    "sizes": []
+   },
+   "background_overlay_color_b": "rgba(9,93,127,0.7)",
+   "background_overlay_color_b_stop": {
+    "unit": "%",
+    "size": 100,
+    "sizes": []
+   },
+   "background_overlay_gradient_type": "linear",
+   "background_overlay_gradient_angle": {
+    "unit": "deg",
+    "size": 90,
+    "sizes": []
+   },
+   "background_overlay_opacity": {
+    "unit": "px",
+    "size": 1,
+    "sizes": []
+   },
+   "html_tag": "section",
+   "flex_gap": {
+    "column": "18",
+    "row": "18",
+    "isLinked": true,
+    "unit": "px",
+    "size": 18
+   }
+  },
+  "elements": [
+   {
+    "id": "8f753cf",
+    "elType": "widget",
+    "widgetType": "heading",
+    "isInner": false,
+    "settings": {
+     "title": "ABOUT",
+     "header_size": "h1",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Source Serif 4",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 60,
+      "sizes": []
+     },
+     "typography_font_size_tablet": {
+      "unit": "px",
+      "size": 50,
+      "sizes": []
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 40,
+      "sizes": []
+     },
+     "typography_font_weight": "400",
+     "typography_line_height": {
+      "unit": "em",
+      "size": 1.1,
+      "sizes": []
+     },
+     "typography_letter_spacing": {
+      "unit": "px",
+      "size": -0.6,
+      "sizes": []
+     }
+    },
+    "elements": []
+   }
+  ]
+ },
+ {
+  "id": "5a9150c",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "row",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 1040,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "104",
+    "right": "32",
+    "bottom": "104",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "73",
+    "right": "20",
+    "bottom": "73",
+    "left": "20",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "overflow": "hidden",
+   "flex_direction_mobile": "column",
+   "flex_align_items": "flex-start",
+   "flex_gap": {
+    "column": "72",
+    "row": "48",
+    "isLinked": false,
+    "unit": "px",
+    "size": 72
+   },
+   "html_tag": "section"
+  },
+  "elements": [
+   {
+    "id": "49acabb",
+    "elType": "widget",
+    "widgetType": "image",
+    "isInner": false,
+    "settings": {
+     "image": {
+      "url": "https://ram-management.wsdfy.com/wp-content/uploads/2026/09/about-lady-justice.jpg",
+      "id": 11,
+      "source": "library",
+      "alt": "",
+      "size": ""
+     },
+     "image_size": "full",
+     "_css_classes": "ram-texture",
+     "_position": "absolute",
+     "_element_width": "initial",
+     "_element_custom_width": {
+      "unit": "px",
+      "size": 380,
+      "sizes": []
+     },
+     "_offset_orientation_h": "start",
+     "_offset_x": {
+      "unit": "px",
+      "size": -40,
+      "sizes": []
+     },
+     "_offset_orientation_v": "end",
+     "_offset_y": {
+      "unit": "px",
+      "size": 0,
+      "sizes": []
+     },
+     "_z_index": 0,
+     "hide_mobile": "hidden-mobile"
+    },
+    "elements": []
+   },
+   {
+    "id": "552e93f",
+    "elType": "container",
+    "isInner": true,
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 40,
+      "sizes": []
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100,
+      "sizes": []
+     },
+     "_flex_size": "grow",
+     "flex_gap": {
+      "column": "20",
+      "row": "20",
+      "isLinked": true,
+      "unit": "px",
+      "size": 20
+     },
+     "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "21e5773",
+      "elType": "widget",
+      "widgetType": "divider",
+      "isInner": false,
+      "settings": {
+       "style": "solid",
+       "weight": {
+        "unit": "px",
+        "size": 2,
+        "sizes": []
+       },
+       "color": "#B08D57",
+       "width": {
+        "unit": "px",
+        "size": 56,
+        "sizes": []
+       },
+       "align": "left",
+       "gap": {
+        "unit": "px",
+        "size": 2,
+        "sizes": []
+       }
+      },
+      "elements": []
+     },
+     {
+      "id": "0c5503a",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "isInner": false,
+      "settings": {
+       "editor": "<p>Founded in 1994 as a company primarily managing artists in the music industry and providing legal services to companies and organizations in the music sector, RAM Management has grown to provide legal counsel to all areas of business.</p>",
+       "text_color": "#211F20",
+       "typography_typography": "custom",
+       "typography_font_family": "Source Serif 4",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 22,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.45,
+        "sizes": []
+       }
+      },
+      "elements": []
+     }
+    ]
+   },
+   {
+    "id": "ee021df",
+    "elType": "container",
+    "isInner": true,
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 40,
+      "sizes": []
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100,
+      "sizes": []
+     },
+     "_flex_size": "grow",
+     "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "1e525cc",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "isInner": false,
+      "settings": {
+       "editor": "<p>RAM Management works closely with small and medium-size businesses, assisting them with their contractual and commercial relationships and corporate structure. It also works closely with business owners in developing strategies to achieve growth and enhance the value of their business.</p><p>Often being called upon to hire American entertainers on behalf of our Canadian clients for their private and corporate events, we began assisting some of these entertainers in processing their Canadian tax waivers.</p><p>Appreciating our work, non-resident entertainers began hiring our office directly to process tax waivers for all of their performances in Canada; many of these relationships still exist today.</p>",
+       "text_color": "#5E6366",
+       "typography_typography": "custom",
+       "typography_font_family": "Jost",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 17,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.8,
+        "sizes": []
+       },
+       "paragraph_spacing": {
+        "unit": "px",
+        "size": 22,
+        "sizes": []
+       }
+      },
+      "elements": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "0b1dc62",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "column",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 1040,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "88",
+    "right": "32",
+    "bottom": "88",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "62",
+    "right": "20",
+    "bottom": "62",
+    "left": "20",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#F4F4F4",
+   "flex_align_items": "center",
+   "flex_gap": {
+    "column": "44",
+    "row": "44",
+    "isLinked": true,
+    "unit": "px",
+    "size": 44
+   },
+   "html_tag": "section"
+  },
+  "elements": [
+   {
+    "id": "c3a7292",
+    "elType": "widget",
+    "widgetType": "text-editor",
+    "isInner": false,
+    "settings": {
+     "editor": "<p>Today, our expertise has expanded to all aspects of tax compliance for non-resident entertainers as well as the contractors and vendors that work on their performances in Canada. We can assist with such matters as:</p>",
+     "text_color": "#063F57",
+     "typography_typography": "custom",
+     "typography_font_family": "Source Serif 4",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 26,
+      "sizes": []
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 21,
+      "sizes": []
+     },
+     "typography_font_weight": "400",
+     "typography_line_height": {
+      "unit": "em",
+      "size": 1.5,
+      "sizes": []
+     },
+     "align": "center",
+     "_element_width": "initial",
+     "_element_custom_width": {
+      "unit": "px",
+      "size": 720,
+      "sizes": []
+     },
+     "_element_width_tablet": "inherit"
+    },
+    "elements": []
+   },
+   {
+    "id": "0ea0cc7",
+    "elType": "container",
+    "isInner": true,
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "container_type": "grid",
+     "grid_columns_grid": {
+      "unit": "fr",
+      "size": 5,
+      "sizes": []
+     },
+     "grid_columns_grid_tablet": {
+      "unit": "fr",
+      "size": 3,
+      "sizes": []
+     },
+     "grid_columns_grid_mobile": {
+      "unit": "fr",
+      "size": 1,
+      "sizes": []
+     },
+     "grid_rows_grid": {
+      "unit": "fr",
+      "size": 1,
+      "sizes": []
+     },
+     "grid_gaps": {
+      "column": "16",
+      "row": "16",
+      "isLinked": true,
+      "unit": "px"
+     },
+     "grid_auto_flow": "row",
+     "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "6bee4bb",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "22",
+        "row": "22",
+        "isLinked": true,
+        "unit": "px",
+        "size": 22
+       },
+       "padding": {
+        "unit": "px",
+        "top": "24",
+        "right": "20",
+        "bottom": "28",
+        "left": "20",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "#FFFFFF",
+       "background_hover_background": "classic",
+       "background_hover_color": "#063F57",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "2",
+        "left": "0",
+        "isLinked": false
+       },
+       "border_color": "#B08D57",
+       "border_radius": {
+        "unit": "px",
+        "top": "18",
+        "right": "18",
+        "bottom": "18",
+        "left": "18",
+        "isLinked": true
+       },
+       "css_classes": "ram-card"
+      },
+      "elements": [
+       {
+        "id": "5254801",
+        "elType": "widget",
+        "widgetType": "icon",
+        "isInner": false,
+        "settings": {
+         "selected_icon": {
+          "value": "fas fa-file-signature",
+          "library": "fa-solid"
+         },
+         "view": "stacked",
+         "shape": "circle",
+         "primary_color": "#FFFFFF",
+         "secondary_color": "#B08D57",
+         "size": {
+          "unit": "px",
+          "size": 18,
+          "sizes": []
+         },
+         "icon_padding": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+         },
+         "align": "left",
+         "_css_classes": "ram-icon-circle"
+        },
+        "elements": []
+       },
+       {
+        "id": "cd726e9",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>Waivers of Federal Regulation 105 and Quebec Regulation 1016 withholding</p>",
+         "text_color": "#063F57",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "500",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.55,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "47fd9a1",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "22",
+        "row": "22",
+        "isLinked": true,
+        "unit": "px",
+        "size": 22
+       },
+       "padding": {
+        "unit": "px",
+        "top": "24",
+        "right": "20",
+        "bottom": "28",
+        "left": "20",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "#FFFFFF",
+       "background_hover_background": "classic",
+       "background_hover_color": "#063F57",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "2",
+        "left": "0",
+        "isLinked": false
+       },
+       "border_color": "#B08D57",
+       "border_radius": {
+        "unit": "px",
+        "top": "18",
+        "right": "18",
+        "bottom": "18",
+        "left": "18",
+        "isLinked": true
+       },
+       "css_classes": "ram-card"
+      },
+      "elements": [
+       {
+        "id": "4db6cd5",
+        "elType": "widget",
+        "widgetType": "icon",
+        "isInner": false,
+        "settings": {
+         "selected_icon": {
+          "value": "fas fa-users",
+          "library": "fa-solid"
+         },
+         "view": "stacked",
+         "shape": "circle",
+         "primary_color": "#FFFFFF",
+         "secondary_color": "#B08D57",
+         "size": {
+          "unit": "px",
+          "size": 18,
+          "sizes": []
+         },
+         "icon_padding": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+         },
+         "align": "left",
+         "_css_classes": "ram-icon-circle"
+        },
+        "elements": []
+       },
+       {
+        "id": "0194949",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>R105 and Part XIII Tax withholdings on employees, contractors, and vendors</p>",
+         "text_color": "#063F57",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "500",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.55,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "6a249a7",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "22",
+        "row": "22",
+        "isLinked": true,
+        "unit": "px",
+        "size": 22
+       },
+       "padding": {
+        "unit": "px",
+        "top": "24",
+        "right": "20",
+        "bottom": "28",
+        "left": "20",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "#FFFFFF",
+       "background_hover_background": "classic",
+       "background_hover_color": "#063F57",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "2",
+        "left": "0",
+        "isLinked": false
+       },
+       "border_color": "#B08D57",
+       "border_radius": {
+        "unit": "px",
+        "top": "18",
+        "right": "18",
+        "bottom": "18",
+        "left": "18",
+        "isLinked": true
+       },
+       "css_classes": "ram-card"
+      },
+      "elements": [
+       {
+        "id": "3b709b8",
+        "elType": "widget",
+        "widgetType": "icon",
+        "isInner": false,
+        "settings": {
+         "selected_icon": {
+          "value": "fas fa-file-invoice-dollar",
+          "library": "fa-solid"
+         },
+         "view": "stacked",
+         "shape": "circle",
+         "primary_color": "#FFFFFF",
+         "secondary_color": "#B08D57",
+         "size": {
+          "unit": "px",
+          "size": 18,
+          "sizes": []
+         },
+         "icon_padding": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+         },
+         "align": "left",
+         "_css_classes": "ram-icon-circle"
+        },
+        "elements": []
+       },
+       {
+        "id": "1bb0642",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>Income tax return and information return filings</p>",
+         "text_color": "#063F57",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "500",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.55,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "4fb62c2",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "22",
+        "row": "22",
+        "isLinked": true,
+        "unit": "px",
+        "size": 22
+       },
+       "padding": {
+        "unit": "px",
+        "top": "24",
+        "right": "20",
+        "bottom": "28",
+        "left": "20",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "#FFFFFF",
+       "background_hover_background": "classic",
+       "background_hover_color": "#063F57",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "2",
+        "left": "0",
+        "isLinked": false
+       },
+       "border_color": "#B08D57",
+       "border_radius": {
+        "unit": "px",
+        "top": "18",
+        "right": "18",
+        "bottom": "18",
+        "left": "18",
+        "isLinked": true
+       },
+       "css_classes": "ram-card"
+      },
+      "elements": [
+       {
+        "id": "1bd3a58",
+        "elType": "widget",
+        "widgetType": "icon",
+        "isInner": false,
+        "settings": {
+         "selected_icon": {
+          "value": "fas fa-search-dollar",
+          "library": "fa-solid"
+         },
+         "view": "stacked",
+         "shape": "circle",
+         "primary_color": "#FFFFFF",
+         "secondary_color": "#B08D57",
+         "size": {
+          "unit": "px",
+          "size": 18,
+          "sizes": []
+         },
+         "icon_padding": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+         },
+         "align": "left",
+         "_css_classes": "ram-icon-circle"
+        },
+        "elements": []
+       },
+       {
+        "id": "661865d",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>Income tax and withholding audits</p>",
+         "text_color": "#063F57",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "500",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.55,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "41cc4dd",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "22",
+        "row": "22",
+        "isLinked": true,
+        "unit": "px",
+        "size": 22
+       },
+       "padding": {
+        "unit": "px",
+        "top": "24",
+        "right": "20",
+        "bottom": "28",
+        "left": "20",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "#FFFFFF",
+       "background_hover_background": "classic",
+       "background_hover_color": "#063F57",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "2",
+        "left": "0",
+        "isLinked": false
+       },
+       "border_color": "#B08D57",
+       "border_radius": {
+        "unit": "px",
+        "top": "18",
+        "right": "18",
+        "bottom": "18",
+        "left": "18",
+        "isLinked": true
+       },
+       "css_classes": "ram-card"
+      },
+      "elements": [
+       {
+        "id": "a2b9405",
+        "elType": "widget",
+        "widgetType": "icon",
+        "isInner": false,
+        "settings": {
+         "selected_icon": {
+          "value": "fas fa-landmark",
+          "library": "fa-solid"
+         },
+         "view": "stacked",
+         "shape": "circle",
+         "primary_color": "#FFFFFF",
+         "secondary_color": "#B08D57",
+         "size": {
+          "unit": "px",
+          "size": 18,
+          "sizes": []
+         },
+         "icon_padding": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+         },
+         "align": "left",
+         "_css_classes": "ram-icon-circle"
+        },
+        "elements": []
+       },
+       {
+        "id": "39b4e1e",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>Objections and other representations before the CRA and Tax Court of Canada</p>",
+         "text_color": "#063F57",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "500",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.55,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "905aef7",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "column",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 760,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "96",
+    "right": "32",
+    "bottom": "96",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "67",
+    "right": "20",
+    "bottom": "67",
+    "left": "20",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_image": {
+    "url": "https://ram-management.wsdfy.com/wp-content/uploads/2026/09/about-quote-tax-forms.jpg",
+    "id": 12,
+    "source": "library",
+    "alt": "",
+    "size": ""
+   },
+   "background_position": "initial",
+   "background_xpos": {
+    "unit": "%",
+    "size": 50,
+    "sizes": []
+   },
+   "background_ypos": {
+    "unit": "%",
+    "size": 50,
+    "sizes": []
+   },
+   "background_repeat": "no-repeat",
+   "background_size": "cover",
+   "background_overlay_background": "classic",
+   "background_overlay_color": "rgba(6,63,87,0.88)",
+   "background_overlay_opacity": {
+    "unit": "px",
+    "size": 1,
+    "sizes": []
+   },
+   "flex_align_items": "center",
+   "flex_gap": {
+    "column": "20",
+    "row": "20",
+    "isLinked": true,
+    "unit": "px",
+    "size": 20
+   },
+   "html_tag": "section"
+  },
+  "elements": [
+   {
+    "id": "d39eea8",
+    "elType": "widget",
+    "widgetType": "heading",
+    "isInner": false,
+    "settings": {
+     "title": "“",
+     "header_size": "div",
+     "title_color": "#D9BF8F",
+     "typography_typography": "custom",
+     "typography_font_family": "Source Serif 4",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 48,
+      "sizes": []
+     },
+     "typography_font_weight": "400",
+     "typography_line_height": {
+      "unit": "em",
+      "size": 0.6,
+      "sizes": []
+     },
+     "align": "center"
+    },
+    "elements": []
+   },
+   {
+    "id": "ca3fd0a",
+    "elType": "widget",
+    "widgetType": "text-editor",
+    "isInner": false,
+    "settings": {
+     "editor": "<p>Over the past decade, we have witnessed the greater attention that the CRA has paid to non-resident entertainers and their operations and believe it is more important than ever for non-residents working in Canada to ensure they are addressing all their Canadian tax obligations.</p>",
+     "text_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Source Serif 4",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 24,
+      "sizes": []
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20,
+      "sizes": []
+     },
+     "typography_font_weight": "400",
+     "typography_line_height": {
+      "unit": "em",
+      "size": 1.6,
+      "sizes": []
+     },
+     "align": "center"
+    },
+    "elements": []
+   }
+  ]
+ },
+ {
+  "id": "4ca1f9d",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "column",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 1040,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "96",
+    "right": "32",
+    "bottom": "96",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "67",
+    "right": "20",
+    "bottom": "67",
+    "left": "20",
+    "isLinked": false
+   },
+   "background_background": "gradient",
+   "background_color": "#0B4E6A",
+   "background_color_stop": {
+    "unit": "%",
+    "size": 0,
+    "sizes": []
+   },
+   "background_color_b": "#052C3D",
+   "background_color_b_stop": {
+    "unit": "%",
+    "size": 60,
+    "sizes": []
+   },
+   "background_gradient_type": "radial",
+   "background_gradient_position": "top left",
+   "flex_align_items": "flex-start",
+   "flex_gap": {
+    "column": "48",
+    "row": "48",
+    "isLinked": true,
+    "unit": "px",
+    "size": 48
+   },
+   "html_tag": "section"
+  },
+  "elements": [
+   {
+    "id": "b41973f",
+    "elType": "widget",
+    "widgetType": "heading",
+    "isInner": false,
+    "settings": {
+     "title": "OUR TEAM",
+     "header_size": "p",
+     "title_color": "#D9BF8F",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 13,
+      "sizes": []
+     },
+     "typography_font_weight": "400",
+     "typography_line_height": {
+      "unit": "em",
+      "size": 1.4,
+      "sizes": []
+     },
+     "typography_letter_spacing": {
+      "unit": "px",
+      "size": 2.3,
+      "sizes": []
+     },
+     "typography_text_transform": "uppercase",
+     "_css_classes": "ram-eyebrow"
+    },
+    "elements": []
+   },
+   {
+    "id": "24584c3",
+    "elType": "container",
+    "isInner": true,
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "container_type": "grid",
+     "grid_columns_grid": {
+      "unit": "fr",
+      "size": 3,
+      "sizes": []
+     },
+     "grid_columns_grid_tablet": {
+      "unit": "fr",
+      "size": 2,
+      "sizes": []
+     },
+     "grid_columns_grid_mobile": {
+      "unit": "fr",
+      "size": 1,
+      "sizes": []
+     },
+     "grid_rows_grid": {
+      "unit": "fr",
+      "size": 1,
+      "sizes": []
+     },
+     "grid_gaps": {
+      "column": "20",
+      "row": "20",
+      "isLinked": true,
+      "unit": "px"
+     },
+     "grid_auto_flow": "row",
+     "width": {
+      "unit": "%",
+      "size": 100,
+      "sizes": []
+     },
+     "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "b87a50b",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_justify_content": "space-between",
+       "flex_gap": {
+        "column": "16",
+        "row": "16",
+        "isLinked": true,
+        "unit": "px",
+        "size": 16
+       },
+       "padding": {
+        "unit": "px",
+        "top": "32",
+        "right": "28",
+        "bottom": "32",
+        "left": "28",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "rgba(255,255,255,0.05)",
+       "background_hover_background": "classic",
+       "background_hover_color": "rgba(255,255,255,0.09)",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+       },
+       "border_color": "rgba(255,255,255,0.12)",
+       "border_radius": {
+        "unit": "px",
+        "top": "22",
+        "right": "22",
+        "bottom": "22",
+        "left": "22",
+        "isLinked": true
+       },
+       "css_classes": "ram-team-card"
+      },
+      "elements": [
+       {
+        "id": "51bfe2e",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>RAM Management is owned by Richard Dermer, a long-time resident of Montreal and small business owner himself from 1985 to 1994.</p><p>Richard graduated Vassar College with the Bachelor of Arts in History, followed by graduating with a Bachelor of Civil Law from McGill Law School and becoming a member of the Quebec Bar in 1994.</p><p>Richard has served on the board and committees of various community-based organizations and served on the Board and Executive of the Canadian Independent Record Production Association from 2002-2008.</p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "300",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.75,
+          "sizes": []
+         },
+         "paragraph_spacing": {
+          "unit": "px",
+          "size": 16,
+          "sizes": []
+         }
+        },
+        "elements": []
+       },
+       {
+        "id": "cc3e3dc",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p><a href=\"mailto:richard@rammanagement.ca\">richard(at)rammanagement.ca</a></p>",
+         "text_color": "#D9BF8F",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.75,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "031cb56",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_justify_content": "space-between",
+       "flex_gap": {
+        "column": "16",
+        "row": "16",
+        "isLinked": true,
+        "unit": "px",
+        "size": 16
+       },
+       "padding": {
+        "unit": "px",
+        "top": "32",
+        "right": "28",
+        "bottom": "32",
+        "left": "28",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "rgba(255,255,255,0.05)",
+       "background_hover_background": "classic",
+       "background_hover_color": "rgba(255,255,255,0.09)",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+       },
+       "border_color": "rgba(255,255,255,0.12)",
+       "border_radius": {
+        "unit": "px",
+        "top": "22",
+        "right": "22",
+        "bottom": "22",
+        "left": "22",
+        "isLinked": true
+       },
+       "css_classes": "ram-team-card"
+      },
+      "elements": [
+       {
+        "id": "a01a157",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>Administration and Director of International Client Services Nadine Benny has been with RAM Management for over 20 years. Graduating from Concordia University in 2005 with a Bachelor of Commerce in Marketing, Nadine participated in the Institute for Co-operative Education program where she completed internships in advertising, artist management, and the non-profit sector. A classically trained pianist, Nadine completed the McGill Conservatory of Music program in 1999. Nadine speaks French and English fluently and completed a Certificate in Law at Université de Montréal in 2011.</p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "300",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.75,
+          "sizes": []
+         },
+         "paragraph_spacing": {
+          "unit": "px",
+          "size": 16,
+          "sizes": []
+         }
+        },
+        "elements": []
+       },
+       {
+        "id": "966d802",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p><a href=\"mailto:nadine@rammanagement.ca\">nadine(at)rammanagement.ca</a></p>",
+         "text_color": "#D9BF8F",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.75,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "38ffd61",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_justify_content": "space-between",
+       "flex_gap": {
+        "column": "16",
+        "row": "16",
+        "isLinked": true,
+        "unit": "px",
+        "size": 16
+       },
+       "padding": {
+        "unit": "px",
+        "top": "32",
+        "right": "28",
+        "bottom": "32",
+        "left": "28",
+        "isLinked": false
+       },
+       "background_background": "classic",
+       "background_color": "rgba(255,255,255,0.05)",
+       "background_hover_background": "classic",
+       "background_hover_color": "rgba(255,255,255,0.09)",
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+       },
+       "border_color": "rgba(255,255,255,0.12)",
+       "border_radius": {
+        "unit": "px",
+        "top": "22",
+        "right": "22",
+        "bottom": "22",
+        "left": "22",
+        "isLinked": true
+       },
+       "css_classes": "ram-team-card"
+      },
+      "elements": [
+       {
+        "id": "fa082a8",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>International Client Coordinator Kayla Papps joined RAM Management shortly after graduating from McGill University in 2019 with a Bachelor of Arts in Psychology, Kayla has become an integral part of the team, maintaining client relationships and managing the intricacies of the ever-evolving CRA compliance requirements.</p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "300",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.75,
+          "sizes": []
+         },
+         "paragraph_spacing": {
+          "unit": "px",
+          "size": 16,
+          "sizes": []
+         }
+        },
+        "elements": []
+       },
+       {
+        "id": "b87f745",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p><a href=\"mailto:kayla@rammanagement.ca\">kayla(at)rammanagement.ca</a></p>",
+         "text_color": "#D9BF8F",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.75,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,213 @@
+[
+ {
+  "id": "514c10f",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "row",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 1040,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "16",
+    "right": "32",
+    "bottom": "16",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "12",
+    "right": "20",
+    "bottom": "12",
+    "left": "20",
+    "isLinked": false
+   },
+   "flex_direction_mobile": "column",
+   "flex_justify_content": "space-between",
+   "flex_align_items": "center",
+   "flex_wrap": "wrap",
+   "flex_gap": {
+    "column": "32",
+    "row": "12",
+    "isLinked": false,
+    "unit": "px",
+    "size": 32
+   },
+   "background_background": "classic",
+   "background_color": "rgba(255,255,255,0.92)",
+   "border_border": "solid",
+   "border_width": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "1",
+    "left": "0",
+    "isLinked": false
+   },
+   "border_color": "#E1E3E3",
+   "css_classes": "ram-header-bar"
+  },
+  "elements": [
+   {
+    "id": "d42e706",
+    "elType": "widget",
+    "widgetType": "image",
+    "isInner": false,
+    "settings": {
+     "image": {
+      "url": "https://ram-management.wsdfy.com/wp-content/uploads/2026/09/ram-logo.png",
+      "id": 7,
+      "source": "library",
+      "alt": "",
+      "size": ""
+     },
+     "image_size": "full",
+     "width": {
+      "unit": "px",
+      "size": 114,
+      "sizes": []
+     },
+     "link_to": "custom",
+     "link": {
+      "url": "https://ram-management.wsdfy.com/",
+      "is_external": "",
+      "nofollow": ""
+     },
+     "align": "left"
+    },
+    "elements": []
+   },
+   {
+    "id": "aabae3e",
+    "elType": "container",
+    "isInner": true,
+    "settings": {
+     "flex_direction": "row",
+     "content_width": "full",
+     "width": {
+      "unit": "px",
+      "size": 380,
+      "sizes": []
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100,
+      "sizes": []
+     },
+     "flex_justify_content": "flex-end",
+     "flex_justify_content_mobile": "flex-start",
+     "flex_align_items": "center",
+     "flex_gap": {
+      "column": "8",
+      "row": "8",
+      "isLinked": true,
+      "unit": "px",
+      "size": 8
+     },
+     "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "5e13fe2",
+      "elType": "widget",
+      "widgetType": "icon-list",
+      "isInner": false,
+      "settings": {
+       "view": "inline",
+       "icon_list": [
+        {
+         "_id": "51fec7f",
+         "text": "Home",
+         "selected_icon": {
+          "value": "",
+          "library": ""
+         },
+         "link": {
+          "url": "https://ram-management.wsdfy.com/",
+          "is_external": "",
+          "nofollow": ""
+         }
+        },
+        {
+         "_id": "872b53c",
+         "text": "About",
+         "selected_icon": {
+          "value": "",
+          "library": ""
+         },
+         "link": {
+          "url": "https://ram-management.wsdfy.com/about/",
+          "is_external": "",
+          "nofollow": ""
+         }
+        },
+        {
+         "_id": "ddd002d",
+         "text": "Contact",
+         "selected_icon": {
+          "value": "",
+          "library": ""
+         },
+         "link": {
+          "url": "https://ram-management.wsdfy.com/contact/",
+          "is_external": "",
+          "nofollow": ""
+         }
+        }
+       ],
+       "space_between": {
+        "unit": "px",
+        "size": 6,
+        "sizes": []
+       },
+       "text_color": "#211F20",
+       "text_color_hover": "#211F20",
+       "text_indent": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+       },
+       "icon_typography_typography": "custom",
+       "icon_typography_font_family": "Jost",
+       "icon_typography_font_size": {
+        "unit": "px",
+        "size": 15,
+        "sizes": []
+       },
+       "icon_typography_font_weight": "400",
+       "icon_typography_line_height": {
+        "unit": "em",
+        "size": 1.4,
+        "sizes": []
+       },
+       "_css_classes": "ram-nav"
+      },
+      "elements": []
+     },
+     {
+      "id": "1d90f3f",
+      "elType": "widget",
+      "widgetType": "shortcode",
+      "isInner": false,
+      "settings": {
+       "shortcode": "[ram_language_switcher]"
+      },
+      "elements": []
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,428 @@
+[
+ {
+  "id": "7b4776c",
+  "elType": "container",
+  "isInner": false,
+  "settings": {
+   "flex_direction": "column",
+   "content_width": "boxed",
+   "boxed_width": {
+    "unit": "px",
+    "size": 1040,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "72",
+    "right": "32",
+    "bottom": "32",
+    "left": "32",
+    "isLinked": false
+   },
+   "padding_mobile": {
+    "unit": "px",
+    "top": "56",
+    "right": "20",
+    "bottom": "24",
+    "left": "20",
+    "isLinked": false
+   },
+   "flex_gap": {
+    "column": "48",
+    "row": "48",
+    "isLinked": true,
+    "unit": "px",
+    "size": 48
+   },
+   "background_background": "gradient",
+   "background_color": "#0D4760",
+   "background_color_stop": {
+    "unit": "%",
+    "size": 0,
+    "sizes": []
+   },
+   "background_color_b": "#0A2D3E",
+   "background_color_b_stop": {
+    "unit": "%",
+    "size": 60,
+    "sizes": []
+   },
+   "background_gradient_type": "radial",
+   "background_gradient_position": "top right"
+  },
+  "elements": [
+   {
+    "id": "c5106ef",
+    "elType": "container",
+    "isInner": true,
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "container_type": "grid",
+     "grid_columns_grid": {
+      "unit": "fr",
+      "size": 3,
+      "sizes": []
+     },
+     "grid_columns_grid_tablet": {
+      "unit": "fr",
+      "size": 2,
+      "sizes": []
+     },
+     "grid_columns_grid_mobile": {
+      "unit": "fr",
+      "size": 1,
+      "sizes": []
+     },
+     "grid_rows_grid": {
+      "unit": "fr",
+      "size": 1,
+      "sizes": []
+     },
+     "grid_gaps": {
+      "column": "56",
+      "row": "40",
+      "isLinked": false,
+      "unit": "px"
+     },
+     "grid_auto_flow": "row",
+     "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "cde97fe",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "20",
+        "row": "20",
+        "isLinked": true,
+        "unit": "px",
+        "size": 20
+       },
+       "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       }
+      },
+      "elements": [
+       {
+        "id": "840366b",
+        "elType": "widget",
+        "widgetType": "image",
+        "isInner": false,
+        "settings": {
+         "image": {
+          "url": "https://ram-management.wsdfy.com/wp-content/uploads/2026/09/ram-logo-white.png",
+          "id": 8,
+          "source": "library",
+          "alt": "",
+          "size": ""
+         },
+         "image_size": "full",
+         "width": {
+          "unit": "px",
+          "size": 165,
+          "sizes": []
+         },
+         "align": "left"
+        },
+        "elements": []
+       },
+       {
+        "id": "3376f76",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>RAM Management - Attorneys at Law provides legal and business consulting services.</p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.6,
+          "sizes": []
+         },
+         "_element_width": "initial",
+         "_element_custom_width": {
+          "unit": "px",
+          "size": 300,
+          "sizes": []
+         },
+         "_element_width_tablet": "inherit"
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "b2b8419",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       }
+      },
+      "elements": [
+       {
+        "id": "6c31a81",
+        "elType": "widget",
+        "widgetType": "icon-list",
+        "isInner": false,
+        "settings": {
+         "view": "traditional",
+         "icon_list": [
+          {
+           "_id": "8a2a5bd",
+           "text": "Home",
+           "selected_icon": {
+            "value": "",
+            "library": ""
+           },
+           "link": {
+            "url": "https://ram-management.wsdfy.com/",
+            "is_external": "",
+            "nofollow": ""
+           }
+          },
+          {
+           "_id": "1849439",
+           "text": "About",
+           "selected_icon": {
+            "value": "",
+            "library": ""
+           },
+           "link": {
+            "url": "https://ram-management.wsdfy.com/about/",
+            "is_external": "",
+            "nofollow": ""
+           }
+          },
+          {
+           "_id": "0f2d9f3",
+           "text": "Contact",
+           "selected_icon": {
+            "value": "",
+            "library": ""
+           },
+           "link": {
+            "url": "https://ram-management.wsdfy.com/contact/",
+            "is_external": "",
+            "nofollow": ""
+           }
+          }
+         ],
+         "space_between": {
+          "unit": "px",
+          "size": 12,
+          "sizes": []
+         },
+         "text_color": "#FFFFFF",
+         "text_color_hover": "#D9BF8F",
+         "text_indent": {
+          "unit": "px",
+          "size": 0,
+          "sizes": []
+         },
+         "icon_typography_typography": "custom",
+         "icon_typography_font_family": "Jost",
+         "icon_typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "icon_typography_font_weight": "400",
+         "icon_typography_line_height": {
+          "unit": "em",
+          "size": 1.4,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     },
+     {
+      "id": "47eff0f",
+      "elType": "container",
+      "isInner": true,
+      "settings": {
+       "flex_direction": "column",
+       "content_width": "full",
+       "flex_gap": {
+        "column": "14",
+        "row": "14",
+        "isLinked": true,
+        "unit": "px",
+        "size": 14
+       },
+       "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       }
+      },
+      "elements": [
+       {
+        "id": "acb49c1",
+        "elType": "widget",
+        "widgetType": "heading",
+        "isInner": false,
+        "settings": {
+         "title": "Contact",
+         "header_size": "h4",
+         "title_color": "#D9BF8F",
+         "typography_typography": "custom",
+         "typography_font_family": "Source Serif 4",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 20,
+          "sizes": []
+         },
+         "typography_font_weight": "500",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.3,
+          "sizes": []
+         }
+        },
+        "elements": []
+       },
+       {
+        "id": "ff18a75",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>R.A.M. Management<br>5165 Queen Mary Road, suite 405<br>Montreal, Quebec<br>Canada<br>H3W 1X7</p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.6,
+          "sizes": []
+         }
+        },
+        "elements": []
+       },
+       {
+        "id": "ae47894",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p>Tel: 514.369.4412<br>Fax: 514.489.5155</p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.6,
+          "sizes": []
+         }
+        },
+        "elements": []
+       },
+       {
+        "id": "3400eaa",
+        "elType": "widget",
+        "widgetType": "text-editor",
+        "isInner": false,
+        "settings": {
+         "editor": "<p><a href=\"mailto:info@rammanagement.ca\">info(at)rammanagement.ca</a></p>",
+         "text_color": "#FFFFFF",
+         "typography_typography": "custom",
+         "typography_font_family": "Jost",
+         "typography_font_size": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "unit": "em",
+          "size": 1.6,
+          "sizes": []
+         }
+        },
+        "elements": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "8c6cddf",
+    "elType": "widget",
+    "widgetType": "divider",
+    "isInner": false,
+    "settings": {
+     "style": "solid",
+     "weight": {
+      "unit": "px",
+      "size": 1,
+      "sizes": []
+     },
+     "color": "rgba(255,255,255,0.18)",
+     "width": {
+      "unit": "%",
+      "size": 100,
+      "sizes": []
+     },
+     "align": "left",
+     "gap": {
+      "unit": "px",
+      "size": 2,
+      "sizes": []
+     }
+    },
+    "elements": []
+   }
+  ]
+ }
+]

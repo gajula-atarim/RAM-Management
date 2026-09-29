@@ -1,0 +1,127 @@
+{
+ "system_colors": [
+  {
+   "_id": "primary",
+   "title": "Navy",
+   "color": "#063F57"
+  },
+  {
+   "_id": "secondary",
+   "title": "Gold",
+   "color": "#B08D57"
+  },
+  {
+   "_id": "text",
+   "title": "Ink",
+   "color": "#211F20"
+  },
+  {
+   "_id": "accent",
+   "title": "Blue",
+   "color": "#095D7F"
+  }
+ ],
+ "custom_colors": [
+  {
+   "_id": "ramnvdk",
+   "title": "Navy Dark",
+   "color": "#052C3D"
+  },
+  {
+   "_id": "ramgldl",
+   "title": "Gold Light",
+   "color": "#D9BF8F"
+  },
+  {
+   "_id": "ramgrey",
+   "title": "Grey Text",
+   "color": "#5E6366"
+  },
+  {
+   "_id": "ramoffw",
+   "title": "Off White",
+   "color": "#F7F6F3"
+  },
+  {
+   "_id": "ramftr",
+   "title": "Footer Navy",
+   "color": "#0A2D3E"
+  },
+  {
+   "_id": "rammist",
+   "title": "Mist",
+   "color": "#E4EEF2"
+  }
+ ],
+ "system_typography": [
+  {
+   "_id": "primary",
+   "title": "Headings (Source Serif 4)",
+   "typography_typography": "custom",
+   "typography_font_family": "Source Serif 4",
+   "typography_font_weight": "400"
+  },
+  {
+   "_id": "secondary",
+   "title": "Sub-headings (Jost)",
+   "typography_typography": "custom",
+   "typography_font_family": "Jost",
+   "typography_font_weight": "500"
+  },
+  {
+   "_id": "text",
+   "title": "Body (Jost)",
+   "typography_typography": "custom",
+   "typography_font_family": "Jost",
+   "typography_font_weight": "400"
+  },
+  {
+   "_id": "accent",
+   "title": "Accent (Jost)",
+   "typography_typography": "custom",
+   "typography_font_family": "Jost",
+   "typography_font_weight": "500"
+  }
+ ],
+ "custom_typography": [],
+ "body_background_background": "classic",
+ "body_background_color": "#F7F6F3",
+ "body_color": "#211F20",
+ "body_typography_typography": "custom",
+ "body_typography_font_family": "Jost",
+ "body_typography_font_size": {
+  "unit": "px",
+  "size": 16,
+  "sizes": []
+ },
+ "body_typography_font_weight": "400",
+ "body_typography_line_height": {
+  "unit": "em",
+  "size": 1.6,
+  "sizes": []
+ },
+ "link_normal_color": "#095D7F",
+ "link_hover_color": "#063F57",
+ "container_width": {
+  "unit": "px",
+  "size": 1040,
+  "sizes": []
+ },
+ "container_padding": {
+  "unit": "px",
+  "top": "0",
+  "right": "0",
+  "bottom": "0",
+  "left": "0",
+  "isLinked": true
+ },
+ "space_between_widgets": {
+  "column": "20",
+  "row": "20",
+  "isLinked": true,
+  "unit": "px",
+  "size": 20
+ },
+ "site_name": "R.A.M. Management",
+ "site_description": "Attorneys at Law"
+}
