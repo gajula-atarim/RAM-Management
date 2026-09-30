@@ -283,7 +283,7 @@ ADDRESS = ["R.A.M. Management", "5165 Queen Mary Road, suite 405", "Montreal, Qu
 TEL = "Tel: 514.369.4412"
 FAX = "Fax: 514.489.5155"
 EMAIL = "info@rammanagement.ca"
-EMAIL_SHOWN = "info(at)rammanagement.ca"
+EMAIL_SHOWN = EMAIL
 MAP_ADDRESS = "5165 Queen Mary Road, Montreal, QC H3W 1X7"
 
 
@@ -517,7 +517,7 @@ def build_about():
             "css_classes": "ram-team-card",
         }, [
             text("team", paras(bio), color=WHITE, p_spacing=16, family=SANS, size=15, weight=300, lh=1.75),
-            text("team", f'<p><a href="mailto:{who}@rammanagement.ca">{who}(at)rammanagement.ca</a></p>', color=GOLD_LIGHT, family=SANS, size=15, weight=400, lh=1.75),
+            text("team", f'<p><a href="mailto:{who}@rammanagement.ca">{who}@rammanagement.ca</a></p>', color=GOLD_LIGHT, family=SANS, size=15, weight=400, lh=1.75),
         ], inner=True))
     team = container("about", {
         **boxed(),

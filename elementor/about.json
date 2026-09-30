@@ -1346,7 +1346,7 @@
         "widgetType": "text-editor",
         "isInner": false,
         "settings": {
-         "editor": "<p><a href=\"mailto:richard@rammanagement.ca\">richard(at)rammanagement.ca</a></p>",
+         "editor": "<p><a href=\"mailto:richard@rammanagement.ca\">richard@rammanagement.ca</a></p>",
          "text_color": "#D9BF8F",
          "typography_typography": "custom",
          "typography_font_family": "Jost",
@@ -1449,7 +1449,7 @@
         "widgetType": "text-editor",
         "isInner": false,
         "settings": {
-         "editor": "<p><a href=\"mailto:nadine@rammanagement.ca\">nadine(at)rammanagement.ca</a></p>",
+         "editor": "<p><a href=\"mailto:nadine@rammanagement.ca\">nadine@rammanagement.ca</a></p>",
          "text_color": "#D9BF8F",
          "typography_typography": "custom",
          "typography_font_family": "Jost",
@@ -1552,7 +1552,7 @@
         "widgetType": "text-editor",
         "isInner": false,
         "settings": {
-         "editor": "<p><a href=\"mailto:kayla@rammanagement.ca\">kayla(at)rammanagement.ca</a></p>",
+         "editor": "<p><a href=\"mailto:kayla@rammanagement.ca\">kayla@rammanagement.ca</a></p>",
          "text_color": "#D9BF8F",
          "typography_typography": "custom",
          "typography_font_family": "Jost",

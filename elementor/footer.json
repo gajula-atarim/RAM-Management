@@ -374,7 +374,7 @@
         "widgetType": "text-editor",
         "isInner": false,
         "settings": {
-         "editor": "<p><a href=\"mailto:info@rammanagement.ca\">info(at)rammanagement.ca</a></p>",
+         "editor": "<p><a href=\"mailto:info@rammanagement.ca\">info@rammanagement.ca</a></p>",
          "text_color": "#FFFFFF",
          "typography_typography": "custom",
          "typography_font_family": "Jost",

@@ -500,7 +500,7 @@
         "widgetType": "text-editor",
         "isInner": false,
         "settings": {
-         "editor": "<p><span style=\"text-decoration: underline; text-underline-offset: 3px;\">info(at)rammanagement.ca</span></p>",
+         "editor": "<p><span style=\"text-decoration: underline; text-underline-offset: 3px;\">info@rammanagement.ca</span></p>",
          "text_color": "#3E4144",
          "typography_typography": "custom",
          "typography_font_family": "Jost",
